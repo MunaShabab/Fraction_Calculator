@@ -1,0 +1,10 @@
+E:\CISS222\FractionCalculator-MunaShabab\bin\Debug\FractionCalculator-MunaShabab.exe.config
+E:\CISS222\FractionCalculator-MunaShabab\bin\Debug\FractionCalculator-MunaShabab.exe
+E:\CISS222\FractionCalculator-MunaShabab\bin\Debug\FractionCalculator-MunaShabab.pdb
+E:\CISS222\FractionCalculator-MunaShabab\obj\Debug\FractionCalculator_MunaShabab.Form1.resources
+E:\CISS222\FractionCalculator-MunaShabab\obj\Debug\FractionCalculator_MunaShabab.Properties.Resources.resources
+E:\CISS222\FractionCalculator-MunaShabab\obj\Debug\FractionCalculator-MunaShabab.csproj.GenerateResource.cache
+E:\CISS222\FractionCalculator-MunaShabab\obj\Debug\FractionCalculator-MunaShabab.csproj.CoreCompileInputs.cache
+E:\CISS222\FractionCalculator-MunaShabab\obj\Debug\FractionCalculator-MunaShabab.exe
+E:\CISS222\FractionCalculator-MunaShabab\obj\Debug\FractionCalculator-MunaShabab.pdb
+E:\CISS222\FractionCalculator-MunaShabab\obj\Debug\FractionCalculator-MunaShabab.csproj.AssemblyReference.cache
